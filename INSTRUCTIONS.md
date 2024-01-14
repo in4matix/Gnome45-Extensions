@@ -1,22 +1,12 @@
 
 
-**A Collection of Gnome 45.2 compatible Shell Extensions**
-
+**INSTRUCTIONS**
 
 
 These extensions have been tested in Ubuntu 23.10 running in a virtual environment.
 
 
-
-A very sincere Thank You to all the various Developers that have been working around the clock to make these extensions compatible and available for free!!
-
-
-
-**INSTRUCTIONS**
-
-
-
-<u>WARNING:</u> The procedure below will reset your user configuration to mine, but you can add your changes again afterwards. If you have the knowledge, a better way would be to edit your dconf user configuration file and use my file to manually add the extension changes.
+WARNING: The procedure below will reset your user configuration to mine, but you can add your changes again afterwards. If you have the knowledge, a better way would be to edit your dconf user configuration file and use my file to manually add the extension changes.
 
 
 
