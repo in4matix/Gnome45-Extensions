@@ -1,6 +1,6 @@
 
 
-**A Collection of Gnome 45.2 and 45.3 and Gnome 46 compatible Shell Extensions**
+**A Collection of Gnome 45 and Gnome 46 compatible Shell Extensions**
 
 
 
