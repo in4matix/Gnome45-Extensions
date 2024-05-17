@@ -1,10 +1,10 @@
 
 
-**A Collection of Gnome 45.2 and 45.3 compatible Shell Extensions**
+**A Collection of Gnome 45.2 and 45.3 and Gnome 46 compatible Shell Extensions**
 
 
 
-These extensions have been tested in Ubuntu 23.10 and Ubuntu 24.4 Beta.
+These extensions have been tested in Ubuntu 23.10 and Ubuntu 24.4 LTS
 
 
 
