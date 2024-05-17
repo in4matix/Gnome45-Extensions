@@ -4,7 +4,7 @@
 
 
 
-These extensions have been tested in Ubuntu 23.10 and Ubuntu 24.4 LTS
+These extensions have been tested in Ubuntu 23.10, Ubuntu 24.4 LTS and Fedora 40
 
 
 
